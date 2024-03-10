@@ -44,7 +44,7 @@
     "id": 4,
     "name": "Утята",
     "closed": false,
-    "avatar_color": "blue",
+    "avatar_color": "l-blue",
     "members_count": 88,
     "friends": [
       {
@@ -80,7 +80,7 @@
     "id": 7,
     "name": "Выдры",
     "closed": false,
-    "avatar_color": "purple",
+    "avatar_color": "violet",
     "members_count": 5,
     "friends": [
       {
@@ -101,7 +101,7 @@
     "id": 8,
     "name": "Зайки",
     "closed": false,
-    "avatar_color": "white",
+    "avatar_color": "yellow",
     "members_count": 777
   },
   {
@@ -177,7 +177,7 @@
     "id": 14,
     "name": "Птички",
     "closed": true,
-    "avatar_color": "blue",
+    "avatar_color": "l-blue",
     "members_count": 23
   }
 ]
