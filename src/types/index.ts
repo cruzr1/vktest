@@ -1,0 +1,10 @@
+export type { User } from './user.interface';
+export type { Group } from './group.interface';
+export type { GetGroupsResponse } from './get-groups-response.interface';
+export type { StateType, AppDispatchType} from './state.type';
+export type { ServerUser } from './server-user.interface';
+export type { ServerGroup } from './server-group.interface';
+export type { DetailMessageType } from './detail-message.type';
+export type { InitialsAvatarTextGradients, InitialsAvatarNumberGradients } from './initials-avatar-gradients.type';
+export type { AvatarColorOptionsType } from './avatar-color-options.type';
+export type { PrivacyFilterType} from './privacy-filter.type';
